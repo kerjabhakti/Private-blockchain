@@ -40,3 +40,6 @@ github.com/gofiber/fiber/v2 v2.41.0 h1:YhNoUS/OTjEz+/WLYuQ01xI7RXgKEFnGBKMagAu5f
 | Nama | Prodi |
 |------ | ----|
 |Aku | Kamu|
+
+![image](https://user-images.githubusercontent.com/15622730/229726979-03440baa-75c0-491e-aecd-015830ee36cd.png)
+
